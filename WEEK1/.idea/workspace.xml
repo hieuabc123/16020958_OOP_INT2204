@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fefe1c-929c-481c-98a6-41578fc4c82e" name="Default Changelist" comment="" />
+    <list default="true" id="36fefe1c-929c-481c-98a6-41578fc4c82e" name="Default Changelist" comment="d" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,17 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StudentManagement" />
@@ -91,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596262083462</updated>
-      <workItem from="1596262084867" duration="16054000" />
+      <workItem from="1596262084867" duration="16656000" />
+      <workItem from="1596375715334" duration="80000" />
     </task>
     <servers />
   </component>
@@ -108,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="63" key="#Java" timestamp="1596262207251">
@@ -122,37 +113,41 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="743" y="415" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1596286947920" />
-    <state width="1921" height="292" key="GridCell.Tab.0.bottom" timestamp="1596288831232">
+    <state width="1921" height="360" key="GridCell.Tab.0.bottom" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596288831232" />
-    <state width="1921" height="292" key="GridCell.Tab.0.center" timestamp="1596288831232">
+    <state width="1921" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.0.center" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="292" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596288831232" />
-    <state width="1921" height="292" key="GridCell.Tab.0.left" timestamp="1596288831232">
+    <state width="1921" height="360" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.0.left" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="292" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596288831232" />
-    <state width="1921" height="292" key="GridCell.Tab.0.right" timestamp="1596288831232">
+    <state width="1921" height="360" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.0.right" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="292" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596288831232" />
-    <state width="1921" height="360" key="GridCell.Tab.1.bottom" timestamp="1596265401372">
+    <state width="1921" height="360" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom" timestamp="1596294854158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596265401372" />
-    <state width="1921" height="360" key="GridCell.Tab.1.center" timestamp="1596265401371">
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854158" />
+    <state width="1921" height="360" key="GridCell.Tab.1.center" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="360" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596265401371" />
-    <state width="1921" height="360" key="GridCell.Tab.1.left" timestamp="1596265401371">
+    <state width="1921" height="360" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.1.left" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="360" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596265401371" />
-    <state width="1921" height="360" key="GridCell.Tab.1.right" timestamp="1596265401372">
+    <state width="1921" height="360" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state width="1921" height="360" key="GridCell.Tab.1.right" timestamp="1596294854157">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1921" height="360" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596265401372" />
+    <state width="1921" height="360" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596294854157" />
+    <state x="342" y="145" key="new project wizard" timestamp="1596375789324">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1596375789324" />
   </component>
 </project>
