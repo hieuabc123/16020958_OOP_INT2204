@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f3087f2-2102-4625-bee8-f97dae953b0c" name="Default Changelist" comment="" />
+    <list default="true" id="94217d1b-6c49-404f-b152-749e0f88bee2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +42,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1fw2DF0zW6EJdwF93oOBpsqy6PR" />
+  <component name="ProjectId" id="1gdAvc6saDfG9v5QlMmZHGYLOaO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,38 +58,27 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.Student" />
-      <module name="WEEK4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Student" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f3087f2-2102-4625-bee8-f97dae953b0c" name="Default Changelist" comment="" />
-      <created>1597114714518</created>
+      <changelist id="94217d1b-6c49-404f-b152-749e0f88bee2" name="Default Changelist" comment="" />
+      <created>1598434329262</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597114714518</updated>
-      <workItem from="1597114715646" duration="503000" />
-      <workItem from="1597115324863" duration="2462000" />
-      <workItem from="1597489340898" duration="1674000" />
-      <workItem from="1597560594702" duration="2754000" />
-      <workItem from="1598434285519" duration="43000" />
+      <updated>1598434329262</updated>
+      <workItem from="1598434330377" duration="521000" />
     </task>
     <servers />
   </component>
@@ -107,16 +95,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1597563286289">
+    <state x="743" y="415" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598434749306">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="722" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597563286289" />
-    <state x="342" y="145" key="new project wizard" timestamp="1598434325828">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1598434325828" />
+    <state x="743" y="415" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1598434749306" />
   </component>
 </project>
